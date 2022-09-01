@@ -21,3 +21,5 @@ Finally, the driver count in Suburban cities were comparibly above the rural div
 
 Total Rides for Each City Type:
   Omar reviewed the total rided in each of the three cities types. The Urban cities of Carriemouth and Christopherfurt, both were tied with 27 total rides. The read were moderate lowerest in the tip five sample of 22, for Barajasview, Deanville 19 rides and Amandaburgh 18 total rides. 
+Urban City total rides:
+![2022-08-31 22 42 19](https://user-images.githubusercontent.com/107796290/187820926-8b613b86-7789-469f-b1a7-b338aab40164.png)
