@@ -1,8 +1,13 @@
 ***PyBer Analysis*** 
+
+
 *Purpose of the New Analysis:
-Omar was presented a new assiggnment from V. Isualized to code in Python with Pandas to create a summary DataFrame. The purpose of Pyber Analysis was to  indicate how the data compares and contrasts by city type and the disparity in the data can utilied by decision-makers within at Pyber. 
+
+  Omar was presented a new assiggnment from V. Isualized to code in Python with Pandas to create a summary DataFrame. The purpose of Pyber Analysis was to  indicate how the data compares and contrasts by city type and the disparity in the data can utilied by decision-makers within at Pyber. 
+
 *Results: 
- Omar reviewed the data results from the summary DateFrame to detemine the differences in ride-sharing data amoung the various cities from the three regions, Urban, Suburban and Rural cities. As you can view in the below tables the break down from the Urban to Suburban fare is extensively moderate in the sample provided compared to that of the Rural cities. In the rural area the sample provided rural fare was extensively higher in certain cities such as Michealberg with the fare of $54.85 and Lake Latoyabury $51.81. Whereas in the Urban communities the sample indicated South Jack shows $34.58 and Port Samanthamouth record fare was $33.44. Overall a disparity in their fares were siggnificant according to the sample of the top five cities in Urban, Suburban and Rural citites.
+
+  Omar reviewed the data results from the summary DateFrame to detemine the differences in ride-sharing data amoung the various cities from the three regions, Urban, Suburban and Rural cities. As you can view in the below tables the break down from the Urban to Suburban fare is extensively moderate in the sample provided compared to that of the Rural cities. In the rural area the sample provided rural fare was extensively higher in certain cities such as Michealberg with the fare of $54.85 and Lake Latoyabury $51.81. Whereas in the Urban communities the sample indicated South Jack shows $34.58 and Port Samanthamouth record fare was $33.44. Overall a disparity in their fares were siggnificant according to the sample of the top five cities in Urban, Suburban and Rural citites.
  
  
                                                    Urban Cities
@@ -24,7 +29,6 @@ Omar was presented a new assiggnment from V. Isualized to code in Python with Pa
 Finally, the driver count in Suburban cities were comparibly above the rural diver count.Lake Omar reflected  22 driver count, East Kenstad 20, Myersshire 19, Barronchester wrapped up driver count with 11. They were moderately priced however were not as successful as that of the Urban cities.
 
 
-
 **Total Rides for Each City Type:
   Omar reviewed the total rided in each of the three cities types. The Urban cities of Carriemouth and Christopherfurt, both were tied with 27 total rides. The read were moderate lowerest in the tip five sample of 22, for Barajasview, Deanville 19 rides and Amandaburgh 18 total rides. 
 
@@ -42,10 +46,20 @@ Lastly the Rural cities were lowerer with ride count. Bradshwafurt rides were 10
 ![2022-08-31 22 50 06](https://user-images.githubusercontent.com/107796290/187821759-b40698a3-7cbf-4aa5-b6b0-352cd8330b15.png)
 
 
+
+
 Average Fare for City Type:
 
+The average city fare per city type inidcated that the suburan, rural and urban cities average fare was comprable in fare in the sample for the top five cities in each of the areas as you can view in the tables below.
 
+                                    Urban Cities Average Fare:
+![2022-08-31 23 05 09](https://user-images.githubusercontent.com/107796290/187823377-67a13183-411e-41a6-948c-175a5b87914e.png)
 
+                                    
+                                    
+                                    
+                                    Suburban Cities Average Fare:
+![2022-08-31 23 05 52](https://user-images.githubusercontent.com/107796290/187823479-b9d51a7c-9937-4078-ae6a-5316d93be0ec.png)
 
 
                                    Rural Cities average fare
