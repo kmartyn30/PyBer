@@ -16,7 +16,7 @@ Omar was presented a new assiggnment from V. Isualized to code in Python with Pa
  ![2022-08-31 22 46 05](https://user-images.githubusercontent.com/107796290/187821274-2683884c-9898-48c8-af59-2f1a8e74908b.png)
 
  
- An additional note, the rural cities divier cout was exptremely low indicated form the top five sample cities Randellchester diver count was 9, North Holly was 8, Michaelberg was 6, Lake Latoyabury was 4 diver count. Omar speculated that the low drive count was due to the respective cost involved in the rural cities. 
+ An additional note, the rural cities divier cout was exptremely low indicated form the top four sample cities Randellchester diver count was 9, North Holly was 8, Michaelberg was 6, Lake Latoyabury was 4 diver count. Omar speculated that the low drive count was due to the respective cost involved in the rural cities. 
  
  Rural Cities
  ![2022-08-31 22 06 43](https://user-images.githubusercontent.com/107796290/187816973-d7a60b4a-bf77-4c46-8275-cf52f8394e64.png)
@@ -31,7 +31,13 @@ Finally, the driver count in Suburban cities were comparibly above the rural div
 Urban City Total Rides:
 ![2022-08-31 22 42 19](https://user-images.githubusercontent.com/107796290/187820926-8b613b86-7789-469f-b1a7-b338aab40164.png)
 
+As you can view that Suburban cities total rides were making gradual progress in the total ride count. The highest cities were Colemanland with 22 rides and Brandonfort 19 rides
 
-Suburban Cities total Rides:
+Suburban Cities Total Rides:
 ![2022-08-31 22 48 06](https://user-images.githubusercontent.com/107796290/187821541-ed448f08-c4e2-44e0-a8e7-5a0ad8fc9111.png)
+
+Lastly the Rural cities were lowerer with ride count. Bradshwafurt rides were 10 and a three way ties with 6 rides were Harringtonfort, Jessicaport, Lake Jamie and finally Garzaport with 3 rides. 
+
+Rural Cities Total Rides:
+![2022-08-31 22 50 06](https://user-images.githubusercontent.com/107796290/187821759-b40698a3-7cbf-4aa5-b6b0-352cd8330b15.png)
 
