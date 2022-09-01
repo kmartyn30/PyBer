@@ -71,15 +71,17 @@ The average city fare per city type inidcated that the suburan, rural and urban 
 
 
 
-Average Number Drivers in Each Cities:
+***Average Number Drivers in Each Cities:
 
+
+As you can interpert in the tables provided Omar was able to compare the average number of drivers to each of the type of cities. He was ablep to determine that the driver count average was higher in the Urban cities for example Deanville average number of drive was 49, and Christopherfurt was close with 41.0 average divers. The suburban cities exhibited a moderate average driver count forColemanland and Davidfurt with a similar average drive count of 23.0 and  Bethanyland 22.0 respectively. 
 
 
 ![2022-08-31 23 14 21](https://user-images.githubusercontent.com/107796290/187824311-13dbeb94-8840-4724-a18c-8896cf3f9908.png)
 
 
 
-Suburban City Average Number of Drivers:
+
 ![2022-08-31 23 12 25](https://user-images.githubusercontent.com/107796290/187824183-de1a8e68-400e-4b7b-aaea-f189a90f582c.png)
 
 
