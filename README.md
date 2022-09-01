@@ -17,3 +17,7 @@ Omar was presented a new assiggnment from V. Isualized to code in Python with Pa
  An additional note, the rural cities divier cout was exptremely low indicated form the top five sample cities Randellchester diver count was 9, North Holly was 8, Michaelberg was 6, Lake Latoyabury was 4 diver count. Omar speculated that the low drive count was due to the respective cost involved in the rural cities. 
 
 Finally, the driver count in Suburban cities were comparibly above the rural diver count.Lake Omar reflected  22 driver count, East Kenstad 20, Myersshire 19, Barronchester wrapped up driver count with 11. They were moderately priced however were not as successful as that of the Urban cities.
+
+
+Total Rides for Each City Type:
+  Omar reviewed the total rided in each of the three cities types. The Urban cities of Carriemouth and Christopherfurt, both were tied with 27 total rides. The read were moderate lowerest in the tip five sample of 22, for Barajasview, Deanville 19 rides and Amandaburgh 18 total rides. 
