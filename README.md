@@ -71,13 +71,16 @@ The average city fare per city type inidcated that the suburan, rural and urban 
 
 
 
+Average Number Drivers in Each Cities:
 
 
 
+![2022-08-31 23 14 21](https://user-images.githubusercontent.com/107796290/187824311-13dbeb94-8840-4724-a18c-8896cf3f9908.png)
 
 
 
-
+Suburban City Average Number of Drivers:
+![2022-08-31 23 12 25](https://user-images.githubusercontent.com/107796290/187824183-de1a8e68-400e-4b7b-aaea-f189a90f582c.png)
 
 
 
