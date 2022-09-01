@@ -50,12 +50,13 @@ Lastly the Rural cities were lowerer with ride count. Bradshwafurt rides were 10
 
 Average Fare for City Type:
 
-The average city fare per city type inidcated that the suburan, rural and urban cities average fare was comprable in fare in the sample for the top five cities in each of the areas as you can view in the tables below.
+The average city fare per city type indicated that the suburan, rural and urban cities average fare was comprable in fare in the sample for the top five cities in each of the areas as you can view in the tables below.
 
-                                    Urban Cities Average Fare:
+                                   
+                                   
+                                   Urban Cities Average Fare:
 ![2022-08-31 23 05 09](https://user-images.githubusercontent.com/107796290/187823377-67a13183-411e-41a6-948c-175a5b87914e.png)
 
-                                    
                                     
                                     
                                     Suburban Cities Average Fare:
@@ -68,26 +69,27 @@ The average city fare per city type inidcated that the suburan, rural and urban 
 
 
 
-
-
-
 ***Average Number Drivers in Each Cities:
 
 
-As you can interpert in the tables provided Omar was able to compare the average number of drivers to each of the type of cities. He was ablep to determine that the driver count average was higher in the Urban cities for example Deanville average number of drive was 49, and Christopherfurt was close with 41.0 average divers. The suburban cities exhibited a moderate average driver count forColemanland and Davidfurt with a similar average drive count of 23.0 and  Bethanyland 22.0 respectively. 
+As you can interpert in the tables provided Omar was able to compare the average number of drivers to each of the type of cities. He determined that the driver count average was higher in the Urban cities for example Deanville average number of drive was 49, and Christopherfurt was close with 41.0 average divers. The suburban cities exhibited a moderate average driver count for Colemanland and Davidfurt with a similar average drive count of 23.0 and  Bethanyland 22.0 respectively. 
 
 
 ![2022-08-31 23 14 21](https://user-images.githubusercontent.com/107796290/187824311-13dbeb94-8840-4724-a18c-8896cf3f9908.png)
 
 
-
-
 ![2022-08-31 23 12 25](https://user-images.githubusercontent.com/107796290/187824183-de1a8e68-400e-4b7b-aaea-f189a90f582c.png)
 
 
+***Average Fare Per Day for Urban, Suburban, Rural Cities:
+
+As Omar impressed during his new anlysis overview the rural cites were extensively higheer in price especial diring the month of January 2019.
+
+![2022-08-31 23 27 51](https://user-images.githubusercontent.com/107796290/187825629-d07b5ecf-506f-446f-b730-47e30b0d693c.png)
 
 
+Business recommendations:
+Is is suggested for the three disparies among the Urban, Suburban, and Rural cities based on the overview in analysis in order to keep cost down and the drivers and rides condusive to a higher overhead they would require to review their weekly fare in the rural cities due to the lower rides but highest fare. 
+In the Urban cities it would be recommented due to being the leading city driver count for the Urban area cities were in the lead South Miichelleport with a driver count of 72, then a dip to 57 driver count by Port Samanthamouth. One indicator to the success was the fare was moderately priced so it should continue the momentum and review any cities that may require an overview to increase rides, drives with a moderate cost in mind. 
 
-
-
-Average Fare: 
+The Suburban cities with the lower driver and ride count should review their operational service of maketing in those two areas with the mindset that if they increase the price they possible would have lower fares similarly to that of the rural cities.  
